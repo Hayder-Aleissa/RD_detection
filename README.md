@@ -88,16 +88,13 @@ A Convolutional Neural Network (CNN) was trained as a performance baseline and u
 ## Conclusion
 
 This study confirms that with strong feature engineering, traditional machine learning approaches can achieve competitive results in medical image classification. These methods can serve as effective, low-cost alternatives to deep learning models in clinical environments where computational resources are limited.
-
-## Contributors
-
-- Abdulaziz Alamoudi (201962450)  
-- Ahmed Alqarni (202031720)  
-- Hayder Aleissa (202020460)  
+ 
 
 ## Course Information
 
 - **Course**: ICS 483 – Computer Vision  
 - **Institution**: King Fahd University of Petroleum and Minerals  
-- **Instructor**: [Instructor Name, if desired]  
 - **Term**: Second Semester, 2024–2025 (242)
+
+## Licensing
+This repository is developed as part of the KFUPM ICS 483 course (semester 242) and is intended solely for educational purposes.
